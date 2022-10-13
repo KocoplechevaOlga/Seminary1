@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Введите число a: ");
+﻿Console.WriteLine("Введите целое число: ");
 int numberA = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("Введите число b: ");
